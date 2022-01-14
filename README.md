@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ValentinaCollareta || 25 years old || Rosario, Argentina
-- ✨ Digital Designer
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning at Radium Rocket's Bootcamp "Become a Software Developer" 2021 Edition
+- ✨ Quality Assurance
+- 🌱 I’m currently working at Radium Rocket
 - 📫 How to reach me on LinkedIn: @ValentinaCollareta
 
 <!---
